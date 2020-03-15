@@ -6,4 +6,4 @@ If you have Docker installed, run the following command on terminal to up and st
 $ docker-compose up -d --build
 ```
 
-!(https://blog.octo.com/wp-content/uploads/2018/10/07_hexagone.png)
+![sboot-hexagonal-architecture](https://blog.octo.com/wp-content/uploads/2018/10/07_hexagone.png)
