@@ -1,4 +1,4 @@
-### Hexagonal Architecture with Java and Spring
+### Hexagonal Architecture (Ports and Adapters) with Java and Spring
 
 If you have Docker installed, run the following command on terminal:
 
