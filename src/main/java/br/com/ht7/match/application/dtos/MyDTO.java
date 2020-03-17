@@ -10,5 +10,5 @@ import lombok.ToString;
 @AllArgsConstructor
 @NoArgsConstructor
 public class MyDTO {
-    private String sendWhatYouWhant;
+    private String sendWhatYouWant;
 }
